@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<title>alphabet</title>
+<body>
+<h1 align="center"><i><u>NUMBER NAME 1-10!</u></i></h1>
+<p>
+<table style="width:100%" align="center" height="70px" border="0" bgcolor="pink" cellspacing="60" cellpadding="10">
+	<tr>
+	<td>1 - ONE</td>
+	<td>6 - SIX</td>
+	</tr>
+	<tr>
+	<td>2 - TWO</td>
+	<td>7 - SEVEN</td>
+	</tr>
+	<tr>
+	<td>3 - THREE</td>
+	<td>8 - EIGHT</td>
+	</tr>
+	<tr>
+	<td>4 - FOUR</td>
+	<td>9 - NINE</td>
+	</tr>
+	<tr>
+	<td>5 - FIVE</td>
+	<td>10 - TEN</td>
+	</tr>
+
+</table>
+</p>
+
+</body>
+</html>
